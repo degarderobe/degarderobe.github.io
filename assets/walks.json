@@ -12,13 +12,13 @@
     }
   },
   {
-    "walkname": "test1",
+    "walkname": "Rondom de Dom",
     "creator": "de Garderobe",
     "geocenter": {
       "type": "Point",
       "coordinates": [
-        5.121694207191467,
-        52.09075984798269
+        5.116857,
+        52.089359
       ]
     }
   }
