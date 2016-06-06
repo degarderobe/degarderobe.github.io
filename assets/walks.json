@@ -1,0 +1,25 @@
+[
+  {
+    "walkname": "Test in Delft",
+    "creator": "Stefan Hendriks",
+    "creatorLink": "http://stefanhendriks.me",
+    "geocenter": {
+      "type": "Point",
+      "coordinates": [
+        4.3470521,
+        51.9907282
+      ]
+    }
+  },
+  {
+    "walkname": "test1",
+    "creator": "de Garderobe",
+    "geocenter": {
+      "type": "Point",
+      "coordinates": [
+        5.121694207191467,
+        52.09075984798269
+      ]
+    }
+  }
+]
