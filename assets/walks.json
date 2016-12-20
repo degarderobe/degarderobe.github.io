@@ -21,5 +21,16 @@
         52.089359
       ]
     }
+  },
+  {
+    "walkname": "HKU Showcase",
+    "creator": "de Garderobe",
+    "geocenter": {
+      "type": "Point",
+      "coordinates": [
+        5.134739,
+        52.080682
+      ]
+    }
   }
 ]
